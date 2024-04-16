@@ -1,0 +1,15 @@
+D:\Kurs\Kurs\bin\x64\Release\Kurs.exe.config
+D:\Kurs\Kurs\bin\x64\Release\Kurs.exe
+D:\Kurs\Kurs\bin\x64\Release\Kurs.pdb
+D:\Kurs\Kurs\bin\x64\Release\MetroFramework.Design.dll
+D:\Kurs\Kurs\bin\x64\Release\MetroFramework.dll
+D:\Kurs\Kurs\bin\x64\Release\MetroFramework.Fonts.dll
+D:\Kurs\Kurs\obj\x64\Release\Kurs.csproj.AssemblyReference.cache
+D:\Kurs\Kurs\obj\x64\Release\Kurs.Form1.resources
+D:\Kurs\Kurs\obj\x64\Release\Kurs.Form2.resources
+D:\Kurs\Kurs\obj\x64\Release\Kurs.Properties.Resources.resources
+D:\Kurs\Kurs\obj\x64\Release\Kurs.csproj.GenerateResource.cache
+D:\Kurs\Kurs\obj\x64\Release\Kurs.csproj.CoreCompileInputs.cache
+D:\Kurs\Kurs\obj\x64\Release\Kurs.csproj.Up2Date
+D:\Kurs\Kurs\obj\x64\Release\Kurs.exe
+D:\Kurs\Kurs\obj\x64\Release\Kurs.pdb
